@@ -6,8 +6,8 @@ function App() {
 
   return (
     <>
-      <div className="container">
-        <h4 className="text-primary mt-5">Filter Table Data</h4>
+      <div className="container  p-6  bg-dark-subtle text-dark-emphasis " >
+        <h4 className="text-primary p-2 mt-4">Filter Table Data</h4>
         <form className="col-md-5">
           <input
             type="text" className="form-control"
